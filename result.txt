@@ -1,0 +1,21 @@
+a. List of files at location- are: 
+app.txt
+Dockerfile.txt
+IF.txt
+Limerick-1.txt
+result.txt
+test.py
+
+b.
+Count of words in File IF.txt is: 287
+Count of words in File Limerick-1.txt is: 32
+
+c. Total count of words in both the files is: 319
+
+d. The top three words with most count in IF.txt are: 
+you -> 14
+If -> 13
+can -> 12
+
+e. IP address of my machine is: 192.168.56.1
+
